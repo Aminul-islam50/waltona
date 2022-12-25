@@ -1,0 +1,354 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.navber1{
+	background:#414E58;
+	width:100%;
+	height:50px;
+	margin-top:10px;
+	padding-top:20px;
+}
+.navber2{
+	float:left;
+	width:900px;
+}
+
+.navber2 a{
+	color:white;
+	text-decoration:none;
+	padding:15px;
+	
+	
+}
+.navber3{
+	float:right;
+	width:400px;
+}
+.navber3 a{
+	color:white;
+	text-decoration:none;
+	padding:10px;
+}
+
+
+.pra{
+	float:left;
+}
+
+.nva{
+	float:right;
+	text-decoration:none;
+}
+
+.navber4{
+	width:100%;
+	height:50px;
+	background:#2D3943;
+	padding-top:20px;
+	
+}
+.nava a{
+	color:white;
+	padding:20px;
+	text-decoration:none;
+	
+	
+}
+
+.nava{
+	padding-left:100px;
+	float:left;
+}
+.navber5{
+	float:right;
+	padding-right:200px;
+}
+.navber5 button{
+	font-size:20px;
+	padding:10px;
+}
+.benar{
+	
+	width:100%;
+	height:370px;
+	background-image:url("travel-banner2.jpg");
+	background-repeat:no-repeat;
+	padding-top:100px;
+}
+.papa{
+	width:250px;
+	height:250px;
+	color:white;
+	margin-left:180px;
+	padding:20px;
+	
+}
+
+
+.papa p{
+	font-size:18px;
+	
+}
+
+.papa a{
+	font-size:20px;
+	color:white;
+	background:blue;
+	padding:6px;
+	text-decoration:none;
+}
+.mem{
+	background:#F1F4F6;
+	text-align:center;
+	padding-top:60px;
+}
+
+
+.men p{
+	font-size:20px;
+}
+
+.icon{
+	background:#F1F4F6;
+	padding-top: 100px ;
+	padding-bottom:30px;
+}
+
+.icon a{
+	font-size:25px;
+	text-decoration:none;
+	padding:20px;
+	margin:20px;
+	margin-left:40px;
+}
+
+.benar2{
+	width:100%;
+	height:500px;
+	background-image:url("benar6.webp");
+	background-repeat:no-repeat;
+	padding-top:175px;
+	
+}
+.maine{
+	width:650px;
+	height:250px;
+	background:white;
+	color:black;
+	margin-left:200px;
+	padding:20px 10px;
+	border-radius: 14px;
+	border: 2px solid red;
+	
+	
+}
+
+.maine h1{
+	text-align:center;
+}
+.maine p{
+	font-size:25px;
+}
+
+.maine a{
+	font-size:22px;
+}
+
+.dip h1{
+	text-align:center;
+}
+
+
+
+
+.pam p{
+	font-size:25px;
+	text-align:center;
+}
+
+
+.servec{
+margin:30px;
+}
+
+.servec4{
+	width:740px;
+	height:550px;
+	float:left;
+	margin-left:70px;
+}
+
+.servec5{
+	float:right;
+}
+
+.servec1{
+	width:300px;
+	height:500px;
+	float:left;
+}
+
+.servec1 a{
+	font-size:25px
+}
+
+.servec2{
+	width:300px;
+	height:500px;
+	float:right;
+}
+.servec2 a{
+	font-size:25px
+}
+	
+.servec3{
+	width:300px;
+	height:500px;
+	float:right;
+	margin-right:70px;
+}
+.servec3 a{
+	font-size:25px
+}
+.servec1 img{
+	width:290px;
+	height:150px;
+}
+
+.servec2 img{
+	width:290px;
+	height:150px;
+}
+
+.servec3 img{
+	width:290px;
+	height:150px;
+}
+
+
+.mmm a{
+	font-size:25px;
+	float:left;
+}
+
+.heder{
+	width:100%;
+	height:500px;
+	background:#415A76;
+	
+}
+.heder h1{
+	text-align:center;
+	padding:30px;
+	color:white;
+	
+}
+
+.heder p{
+	text-align:center;
+	font-size:20px;
+	color:white;
+}
+.heder1{
+	width:300px;
+	height:300px;
+	float:left;
+	padding-left:290px;
+}
+.heder1 img{
+	width:250px;
+	height:250;
+}
+
+.heder2{
+	width:400px;
+	height:400px;
+	float:right;
+	padding-right:300px;
+	padding-top:50px;
+}
+
+.heder2 a{
+	font-size:20px;
+	color:white;
+}
+
+
+.alogir{
+	width:100%;
+	height:500px;
+	background:#2E4867;
+}
+.nana h1{
+	color:white;
+	text-align:center;
+}
+
+
+.mami{
+	width:800px;
+	height:400px;
+	float:left;
+	padding-top:100px;
+}
+
+.div7{
+	width:340px;
+	height:200;
+	float:left;
+	padding-left:50px;
+}
+
+.div7 a{
+	font-size:20px;
+	color:white;
+}
+
+.div7 p{
+	font-size:20px;
+	color:white;
+	
+}
+
+.div8{
+	width:340px;
+	height:200;
+	float:right;
+	padding-left:30px;
+	
+	
+}
+
+.div8 a{
+	font-size:20px;
+	color:white;
+	
+}
+
+.div8 p{
+	font-size:20px;
+	color:white;
+	
+}
+
+
+.menu{
+	width:340px;
+	height:200px;
+	float:right;
+	padding-right:50px;
+    padding-top:100px;
+}
+
+
+.menu a{
+    font-size:20px;
+	color:white;
+}
+
+.menu p{
+	font-size:20px;
+	color:white;
+	
+}
